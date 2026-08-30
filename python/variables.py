@@ -25,8 +25,8 @@ b = 5
 c = 6
 print(a,b,c)
 
-a,b,e = 2,5,6
-print(a,b,e)
+a,b,d = 2,5,6
+print(a,b,d)
 
 # 4. Scope Of Variables
 
