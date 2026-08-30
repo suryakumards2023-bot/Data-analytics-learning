@@ -11,7 +11,7 @@ print("Id:",id(b))
 
 import keyword
 print(keyword.kwlist)
-print(len(keyword.kwlist))
+print("Total Keywod:",len(keyword.kwlist))
 
 # 3. Declaring Variables
 
