@@ -31,4 +31,4 @@ Projects will be added as I progress through my Data Analytics learning journey.
 
 ## 📈 Learning Progress
 
-I regularly update this repository with my practice works and projects.
+I regularly update this repository with my practice work and projects.
