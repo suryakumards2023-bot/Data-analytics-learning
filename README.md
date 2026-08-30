@@ -1,6 +1,6 @@
 # 📊 Data Analytics Learning Journey
 
-This repository contains my Data Analytics learning journey, practice programs, exercises, notes, and projects.
+This repository contains my Data Analytics learning journey, practice programs, exercises and projects.
 
 ## 📚 Topics
 
