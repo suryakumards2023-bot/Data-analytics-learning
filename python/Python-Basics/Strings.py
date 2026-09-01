@@ -1,41 +1,41 @@
-# # Python Strings
-# # 1. Basic of string 
-# s1= "Hello, World!"
-# s2 = 'Python is fun!'
-# s3= """This is a multi-line string"""
-# s4= '"They don\'t argue anymore"'
+# Python Strings
+# 1. Basic of string 
+s1= "Hello, World!"
+s2 = 'Python is fun!'
+s3= """This is a multi-line string"""
+s4= '"They don\'t argue anymore"'
 
-# print(s1)
-# print(s2)
-# print(s3)
-# print(s4)
+print(s1)
+print(s2)
+print(s3)
+print(s4)
 
-# # 2. Formate Techniques
-# # 2.1 Using f-string
-# name = "deepak"
-# age = 30
-# message = f"Hello, my name is {name} and I am {age} years old."
+# 2. Formate Techniques
+# 2.1 Using f-string
+name = "deepak"
+age = 30
+message = f"Hello, my name is {name} and I am {age} years old."
 
-# # 2.2 Using format() method
-# message2 = "Hello, my name is {} and I am {} years old.".format(name, age)
+# 2.2 Using format() method
+message2 = "Hello, my name is {} and I am {} years old.".format(name, age)
 
-# # 2.3 Using +
-# message3 = "Hello, my name is " + name + " and I am " + str(age) + " years old."
+# 2.3 Using +
+message3 = "Hello, my name is " + name + " and I am " + str(age) + " years old."
 
-# print(message)
-# print(message2)
-# print(message3)
+print(message)
+print(message2)
+print(message3)
 
-# # 3. user input and output
-# user_name = input("Enter your name: ")
-# age = input("Enter your age: ")  # age is a string input from user
-# print(f"Hello, {user_name}! You are {age} years old.")
-# print(f"he will be {int(age) + 1} years old next year")
-# print(type(age))  # prints the type of age variable
+# 3. user input and output
+user_name = input("Enter your name: ")
+age = input("Enter your age: ")  # age is a string input from user
+print(f"Hello, {user_name}! You are {age} years old.")
+print(f"he will be {int(age) + 1} years old next year")
+print(type(age))  # prints the type of age variable
 
-# user_age = int(input("Enter your age: "))  # age is an integer input from user
-# print(f"Hello, You are {user_age} years old.")
-# print(type(user_age))  # prints the type of user_age variable
+user_age = int(input("Enter your age: "))  # age is an integer input from user
+print(f"Hello, You are {user_age} years old.")
+print(type(user_age))  # prints the type of user_age variable
 
 # 4. Operations on string    
 # 4.1 String concatenation
